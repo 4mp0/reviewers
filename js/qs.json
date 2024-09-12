@@ -17,8 +17,9 @@
       "A display screen is used  to provide “output” to  theuser.It is where you  can view the  information you are  working on.",
       "An output device that  produces  a hard ofthe  information.  Information to the user  is in printed form.",
       "An output device that  produces  a hard of the  information.  Information to the user  is in printed form.",
-      "All computer need to storedata.", "Data is stored temporally while program is running–MainMemory.",
-      "To store data forlong-term,to preserve programs anddata while not in use –BackingStorage.",
+      "All computer need to store data.",
+ "is stored temporarily while program is running–MainMemory.",
+      "To store data for long-term,to preserve programs anddata while not in use –BackingStorage.",
       "Temporary area for holding data."
     ]
 }
